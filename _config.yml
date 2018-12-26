@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://chouchouyi.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -81,7 +81,4 @@ deploy:
   repository: git@github.com:Zouyi0420/Zouyi0420.github.io.git
   branch: master
 
-  hexo g 编译
-  hexo d 上传
-  done：git
-  手机地址栏访问：用户名.github.io
+
